@@ -1,4 +1,4 @@
-# Api para obtener todos los iconos de la pagina https://icons8.com/line-awesome
+# Api para obtener todos los iconos de la página https://icons8.com/line-awesome
 
 ## Response
 ```json
